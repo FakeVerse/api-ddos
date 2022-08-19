@@ -1,0 +1,9 @@
+Everything You Need:
+
+1. VPS CentOS 6.X. or CentOS 7
+2. MobaXterm And PuTTY.
+3. Another CentOS VPS In The Future For Scanning Bots.
+
+python setup.py
+if dont work 
+python3 setup.py
